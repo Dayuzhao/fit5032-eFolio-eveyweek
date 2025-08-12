@@ -1,4 +1,4 @@
-<!-- src/components/MyName.vue -->
+<!-- src/components/MyName.vue
 <template>
   <div class="my-name">
     <h2>Hello, my name is Dayu Zhao!</h2>
@@ -14,4 +14,4 @@ h2 {
   color: #42b983;
   font-weight: bold;
 }
-</style>
+</style> -->
